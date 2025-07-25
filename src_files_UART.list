@@ -1,0 +1,8 @@
+UART_if.sv
+UART.sv
+UART_golden_model.sv
+UART_pkg.sv
+UART_tb.sv
+UART_monitor.sv
+UART_sva.sv
+UART_top.sv
